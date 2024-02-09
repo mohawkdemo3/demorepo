@@ -1,1 +1,2 @@
+Adding a line to the top of file.txt
 ABC 123 Adding some content to file.txt, more content! 123 ABC
